@@ -1,9 +1,9 @@
-//*----------------------------------------------------------------------------
+ //*----------------------------------------------------------------------------
 //*         ATMEL Microcontroller Software Support  -  ROUSSET  -
 //*----------------------------------------------------------------------------
 //* The software is delivered "AS IS" without warranty or condition of any
 //* kind, either express, implied or statutory. This includes without
-//* limitation any warranty or condition with respect to merchantability or
+//* limitation any warranty or condition with respect to merchantability or1111111111
 //* fitness for any particular purpose, or against the infringements of
 //* intellectual property rights of others.
 //*----------------------------------------------------------------------------
